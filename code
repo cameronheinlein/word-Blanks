@@ -1,0 +1,9 @@
+var myNoun = "dog";
+var myAdjective = "big";
+var myVerb = "ran";
+var myAdverb = "quickly";
+
+// Create Mad Libs style string with variables
+var wordBlanks = "When my " + myAdjective + " " + myNoun + " saw the Ice Cream Truck he " + myVerb + " " + myAdverb + "."; // Change this line
+
+return wordBlanks; 
